@@ -1,0 +1,165 @@
+body {
+    color: purple !important;
+}
+.btn-primary{
+    background-color: #ffbac442 !important;
+    border-color: purple !important;
+    color: purple !important;
+}
+
+.card {
+    border-color: purple !important;
+}
+
+.navbar {
+    border-bottom: 1px solid #800080e8;
+    background-color: #ffbac442;
+    color: purple !important;
+}
+.navbar-brand {
+    color: purple !important;
+}
+
+.form-control {
+    border-color: purple !important;
+}
+
+.table {
+    --bs-table-striped-bg: rgb(189 114 114 / 28%) !important;
+
+}
+
+.btn-danger{
+    --bs-btn-bg: transparent !important;
+    color: black !important;
+}
+
+.btn-warning {
+    --bs-btn-bg: transparent !important;
+}
+
+.list-group {
+    --bs-list-group-active-bg: #ffbac442 !important;
+    --bs-list-group-active-border-color: #800080e8 !important;
+    --bs-list-group-border-color: #800080e8 !important;
+    
+}
+
+a {
+    text-decoration: none !important;
+    color: purple !important;
+}
+
+.quantity-selector button {
+    background-color: #ffbac442;
+    color: grey;
+    border-color: purple;
+    padding: 5px 10px;
+    margin: 0 2px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.quantity-selector input {
+    width: 50px;
+    text-align: center;
+}
+
+.quantity-selector button:hover {
+    background-color: #ffbac442;
+}
+
+.adminindex {
+    padding-top: 35px;
+}
+
+.form-select1{
+    width: 50% !important;
+}
+
+.cart-btn {
+    position: fixed;
+    right: 21px; /* Adjust the distance from the right edge */
+    bottom: 20px; /* Adjust the distance from the bottom edge */
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 10000; /* Ensure it appears above other elements */
+    transition: all 0.3s ease;
+}
+
+.cart-btn:hover {
+    background-color: #0056b3; /* Darken the button on hover */
+    transform: translateY(-2px); /* Slightly lift the button on hover */
+}
+
+.cart-btn i {
+    font-size: 24px; /* Adjust the size of the icon */
+}
+
+.btn2 {
+    background-color: #f6def7 !important;
+}
+
+.navbar1 {
+    background-color: #41072f42 !important;
+}
+
+.navbar-brand-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.navbar-toggler {
+    z-index: 1; /* Ensure the toggler stays on top */
+}
+
+.carousel img{
+    height: 150px;
+}
+
+.cart-item-checkbox {
+    margin-left: -30px;
+    transform: translateY(-50%);
+    position: absolute;
+    top: 65%;
+    width: 21px;
+    height: 21px;
+}
+
+.card-text2 {
+    justify-content: flex-end;
+    display: flex;
+}
+
+/* .card-title2 {
+    margin-left: -80px;
+} */
+
+.price2 {
+    /* margin-left: -80px; */
+    margin-top: 80px;
+}
+
+.photo2 img {
+    height: 200px;
+}
+
+.btn2 {
+    background-color: #ffbac442 !important;
+    border-color: purple !important;
+}
+
+.navl {
+    padding-top: 15px !important;
+}
+
+
+
+
